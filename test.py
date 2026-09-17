@@ -1,2 +1,2 @@
-import nonexistent_fake_package
-import json
+import requests
+import reqeusts
